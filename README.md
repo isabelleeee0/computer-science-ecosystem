@@ -1,4 +1,2 @@
-# computer-science-ecosystem
-this is for testing purposes.
-My name is Isabelle.
-
+# computer-sciece-ecosystem
+hello! this is the computer science ecosystem class.
